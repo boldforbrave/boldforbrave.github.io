@@ -2484,7 +2484,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .callto-action-area {
-  background: url(../img/callaction-bg.jpg) center;
+  /*background: url(../img/callaction-bg.jpg) center;*/
+  background: url(../img/bg_3.png) center;
   background-size: cover;
 }
 
