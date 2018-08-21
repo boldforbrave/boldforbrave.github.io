@@ -2485,7 +2485,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .callto-action-area {
   /*background: url(../img/callaction-bg.jpg) center;*/
-  background: url(../img/bg_3.png) center;
+  background: url(../img/bg_4.png) center;
   background-size: cover;
 }
 
@@ -2508,7 +2508,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .callto-action-area .overlay-bg {
-  background: rgba(4, 9, 30, 0.6);
+  /*background: rgba(4, 9, 30, 0.6);*/
+  background: rgba(0, 0, 0, 0.6);
 }
 
 .single-price {
